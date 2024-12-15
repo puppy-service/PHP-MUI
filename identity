@@ -1,0 +1,19 @@
+Identity & Access Management (IAM) and Policies
+Zero Trust Architecture
+Granular access policies
+IAM native integration (EntraID, Google, Okta, etc...)
+Per client application / group / user policies
+Conditional based access policies
+Risk-base policies with auto Step-Up/Step Down
+Agreement-based logical access
+Phishing protection with Mobile Push
+Geolocation-based access policies
+DDOS and brute-force protection
+Leaked / Pwned password detection
+SSH Key Management (SpanKey)
+Password Reset Web App
+Self-Desk Web App
+Help-Desk Web App
+Federation (SSO)
+With our ADFS plugin
+With our SAML & OpenID-Connect IdP
