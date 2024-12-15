@@ -1,0 +1,16 @@
+Main License Features
+On Premise and Cloud/SaaS Editions
+Native AD / LDAP integration
+High Availability (HA) for On-Premise Edition
+SIEM integration
+Centralized Management
+Multi-Domain
+Strong Authentication Methods
+Mobile Push with OpenOTP Token App
+FIDO2, Yubikey
+Any OATH Hardware or Software Token
+Passkeys (Apple, Microsoft, Google)
+Mobile Badging with OpenOTP Token
+Multiple authentications with intelligent fallback
+MailOTP with magic-links
+Mail, SMS, Printed OTP list
